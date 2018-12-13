@@ -4,7 +4,7 @@
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="586e75" />
-    <option name="CARET_COLOR" value="dc322f" />
+    <option name="CARET_COLOR" value="859900" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="GUTTER_BACKGROUND" value="eee8d5" />
@@ -111,7 +111,7 @@
     </option>
     <option name="BASH.NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="BASH.PAREN">
@@ -137,7 +137,7 @@
     </option>
     <option name="BASH.SUBSHELL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="BASH.VAR_DEF">
@@ -147,17 +147,17 @@
     </option>
     <option name="BASH.VAR_USE">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="BASH.VAR_USE_BUILTIN">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -319,7 +319,7 @@
     </option>
     <option name="COFFEESCRIPT.NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="COFFEESCRIPT.OBJECT_KEY">
@@ -473,7 +473,7 @@
     </option>
     <option name="CSS.COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -489,7 +489,7 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -575,7 +575,7 @@
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
@@ -662,7 +662,7 @@
     </option>
     <option name="Cmd.NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="Cmd.STRING">
@@ -797,7 +797,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -808,7 +808,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -881,7 +881,7 @@
     </option>
     <option name="DJANGO_NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="DJANGO_STRING_LITERAL">
@@ -987,7 +987,7 @@
     </option>
     <option name="EL.BOUNDS">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="EL.IDENT">
@@ -1003,7 +1003,7 @@
     </option>
     <option name="EL.NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="EL.STRING">
@@ -1191,7 +1191,7 @@
     </option>
     <option name="HAML_CLASS">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1213,7 +1213,7 @@
     </option>
     <option name="HAML_ID">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="HAML_LINE_CONTINUATION">
@@ -1256,7 +1256,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -1327,7 +1327,7 @@
     </option>
     <option name="Integer literal">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="Invalid escape in string">
@@ -1386,7 +1386,7 @@
     </option>
     <option name="JAVA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="JAVA_STRING">
@@ -1396,7 +1396,7 @@
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="JFLEX.COMMENT">
@@ -1508,7 +1508,7 @@
     </option>
     <option name="JS.DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1595,7 +1595,7 @@
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
@@ -1690,7 +1690,7 @@
     </option>
     <option name="KOTLIN_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="KOTLIN_STRING">
@@ -1791,7 +1791,7 @@
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
@@ -1880,7 +1880,7 @@
     </option>
     <option name="LUA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="LUA_PARAMETER">
@@ -1918,7 +1918,7 @@
     </option>
     <option name="MACRONAME">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1989,7 +1989,7 @@
     </option>
     <option name="MARKDOWN.CODE_BLOCK">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -2129,7 +2129,7 @@
     </option>
     <option name="OC.DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -2287,12 +2287,12 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
@@ -2305,7 +2305,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -2530,12 +2530,12 @@
     </option>
     <option name="QL_NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="QL_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="QL_STRING">
@@ -2578,7 +2578,7 @@
     </option>
     <option name="REGEXP.COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="REGEXP.ESC_CHARACTER">
@@ -2609,7 +2609,7 @@
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -2733,12 +2733,12 @@
     </option>
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="RUBY_GVAR">
@@ -2795,7 +2795,7 @@
     </option>
     <option name="RUBY_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="RUBY_PARAMDEF_CALL">
@@ -2816,7 +2816,7 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
@@ -2841,7 +2841,7 @@
     </option>
     <option name="Rainbow Parens Level 3">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="Rainbow Parens Level 4">
@@ -2892,13 +2892,13 @@
     </option>
     <option name="SASS_DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="SASS_NUMBER">
@@ -2908,7 +2908,7 @@
     </option>
     <option name="SASS_RULE">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="SASS_STRING">
@@ -2993,7 +2993,7 @@
     </option>
     <option name="SOY.NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="SOY.SPECIAL_CHAR">
@@ -3070,7 +3070,7 @@
     </option>
     <option name="SQL_COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3097,12 +3097,12 @@
     </option>
     <option name="SQL_NUMBER">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="SQL_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="SQL_PROCEDURE">
@@ -3132,7 +3132,7 @@
     </option>
     <option name="SQL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -3231,7 +3231,7 @@
     </option>
     <option name="Scala Predefined types">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="Scala Semicolon">
@@ -3269,7 +3269,7 @@
     </option>
     <option name="Scala Type Alias">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="Scala Type parameter">
@@ -3575,7 +3575,7 @@
     </option>
     <option name="XML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -3613,7 +3613,7 @@
     </option>
     <option name="XPATH.NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="XPATH.STRING">
@@ -3785,7 +3785,7 @@
     </option>
     <option name="org.rust.DOC_HEADING">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="ff8000" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
